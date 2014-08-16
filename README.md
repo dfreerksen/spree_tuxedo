@@ -1,6 +1,6 @@
 # Spree Tuxedo
 
-Theme for Spree
+Theme for Spree. **Not ready for production**
 
 
 ## Installation
